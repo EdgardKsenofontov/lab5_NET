@@ -1,0 +1,8 @@
+C:\study\6 семестр\NET\lab5_NET\lab5_NET\bin\Debug\lab5_NET.exe.config
+C:\study\6 семестр\NET\lab5_NET\lab5_NET\bin\Debug\lab5_NET.exe
+C:\study\6 семестр\NET\lab5_NET\lab5_NET\bin\Debug\lab5_NET.pdb
+C:\study\6 семестр\NET\lab5_NET\lab5_NET\obj\Debug\lab5_NET.csproj.AssemblyReference.cache
+C:\study\6 семестр\NET\lab5_NET\lab5_NET\obj\Debug\lab5_NET.csproj.SuggestedBindingRedirects.cache
+C:\study\6 семестр\NET\lab5_NET\lab5_NET\obj\Debug\lab5_NET.csproj.CoreCompileInputs.cache
+C:\study\6 семестр\NET\lab5_NET\lab5_NET\obj\Debug\lab5_NET.exe
+C:\study\6 семестр\NET\lab5_NET\lab5_NET\obj\Debug\lab5_NET.pdb
